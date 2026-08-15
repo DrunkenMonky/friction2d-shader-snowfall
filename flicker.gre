@@ -1,0 +1,9 @@
+<ShaderEffect name="Flicker" menuPath="Generate">
+    <Properties>
+        <Property name="u_time"            nameUI="Time"             type="float" min="0.0" max="10000.0" ini="0.0" step="0.1" glValue="true"/>
+        <Property name="u_speed"           nameUI="Speed"            type="float" min="0.0" max="20.0"    ini="2.0" step="0.1" glValue="true"/>
+        <Property name="u_amount"          nameUI="Flicker Amount"   type="float" min="0.0" max="1.0"     ini="0.3" step="0.01" glValue="true"/>
+        <Property name="u_random"          nameUI="Random Noise"     type="float" min="0.0" max="1.0"     ini="0.5" step="0.01" glValue="true"/>
+        <Property name="u_min_brightness"  nameUI="Min Brightness"   type="float" min="0.0" max="1.0"     ini="0.5" step="0.01" glValue="true"/>
+    </Properties>
+</ShaderEffect>
