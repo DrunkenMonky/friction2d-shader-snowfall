@@ -1,3 +1,6 @@
+Link to Snowfall Shader
+https://github.com/DrunkenMonky/friction2d-shader/releases/tag/Friction_Shader
+
 # Friction Shader: Flicker
 
 Deutsche Beschreibung – siehe unten für die englische Version.
